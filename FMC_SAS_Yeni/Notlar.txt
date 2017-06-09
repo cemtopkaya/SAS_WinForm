@@ -1,0 +1,5 @@
+﻿Aralıklar
+Şebeke İletkenliği (InletCond) 300-1000
+Üretim iletkenliği (ProdCon) 1-50
+Sıcaklık 5-35
+Verimlilik

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\10.130.214.67\c%24\inetpub\wwwroot\sas\app\client\|c:\temp\cl\|\\localhost\Users\Administrator\Desktop\fmc_publish\|publish\|D:\Projects\VS\SAS_FMC\trunk\websrvcSAS\publish\YTS\</PublishUrlHistory>
+    <InstallUrlHistory>https://sas.fresenius.com.tr/app/client/|http://sas.fresenius.com.tr/app/client/|http://sas.fresenius.com.tr/sas/publish/SeriUretec/|http://10.130.214.67/sas/publish/SeriUretec/|http://10.130.214.67/sas/deploy/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>https://sas.fresenius.com.tr/app/client/|http://sas.fresenius.com.tr/app/client/|http://10.130.214.67/sas/publish/SeriUretec/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+</Project>
