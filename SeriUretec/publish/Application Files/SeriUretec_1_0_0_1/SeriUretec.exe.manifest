@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="SeriUretec.exe" version="1.0.0.1" publicKeyToken="5d0f544aa9965043" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="logoBig.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SeriUretec" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="SeriUretec.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FirebirdSql.Data.FirebirdClient.dll" size="662016">
+      <assemblyIdentity name="FirebirdSql.Data.FirebirdClient" version="2.6.0.0" publicKeyToken="3750ABCC3150B00C" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>TMNPziao7g7L9wgK8rXX6aqj/dk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SASLib.dll" size="47616">
+      <assemblyIdentity name="SASLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>eL1WcsF/1lBM6yiR6GZmTfHVS0Q=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SeriUretec.exe" size="171008">
+      <assemblyIdentity name="SeriUretec" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>1dI4T05G1+/rJM6D0P8ankC4Rsw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="logoBig.ico" size="32038">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>3T9FoKsHMo225g4yZyBapDf2Qic=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="SeriUretec.exe.config" size="1185">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>CjfRE7DApYDF+8ZfNxPN+vNQRjs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=CZC0131Z48\Administrator" issuerKeyHash="579b97382c5871f31666ea8bb704cd59421a4e24" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>v1dT9g4/4o0hL+rqahTcRoAWKzk=</DigestValue></Reference></SignedInfo><SignatureValue>D6LaN5M2SwpxJutHuVyQo0PykBpiHxWGW4Va6ExjQWZtSxktmf6qm6Do2xuOWC7gAKBUa62QCQ4kDJLW1AtGYkyXvlgtPuFoyzmmn0fQUfvzfoxH5YkM6JuoTF0sKbQ7rSwAdFCSWN+3Z36GP8I3rge4RMMmMsHq1ULNTh31XGQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zew8Ry4GmiB7DED8lS6V6tf5p5GTUp3KtdFMce0cEhv/zXEYjGgomB2x3wTSrIcHWfkyiNg7itqviPTZNBFqzv7OW8WbtPnwTEnqJoqHd4Uom3cc/i/MFOnZKECNfOpVVqm7OLHPDXiVKyKJC/OyW7/rAfxb8RPS9uRUOt2PK80=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="392b168046dc146aeaea2f218de23f0ef65357bf" Description="" Url=""><as:assemblyIdentity name="SeriUretec.exe" version="1.0.0.1" publicKeyToken="5d0f544aa9965043" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CZC0131Z48\Administrator</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>kqe5vyUGj2R1+Jle0cb1roQwDOQ=</DigestValue></Reference></SignedInfo><SignatureValue>VLmUqV2W0yt4cnIhyesNza04E0bVM7MfcFW5yIvGnaWmyCu4xJ1tR+gqNt3AMegbR32cv96sWAI/r7GY1MYRrkNTtxwMTF6QB5xLjVgDay3AtQMvAqD0Oj/6OsZr1w5NRFbS//p0OSzSpU1KqV95+azue6znuOEVcSK6MvGjfqQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zew8Ry4GmiB7DED8lS6V6tf5p5GTUp3KtdFMce0cEhv/zXEYjGgomB2x3wTSrIcHWfkyiNg7itqviPTZNBFqzv7OW8WbtPnwTEnqJoqHd4Uom3cc/i/MFOnZKECNfOpVVqm7OLHPDXiVKyKJC/OyW7/rAfxb8RPS9uRUOt2PK80=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB+TCCAWKgAwIBAgIQdGzP4mGER6dLcHXajOxMNjANBgkqhkiG9w0BAQUFADA7MTkwNwYDVQQDHjAAQwBaAEMAMAAxADMAMQBaADQAOABcAEEAZABtAGkAbgBpAHMAdAByAGEAdABvAHIwHhcNMTExMjE2MDg0MjI4WhcNMTIxMjE1MTQ0MjI4WjA7MTkwNwYDVQQDHjAAQwBaAEMAMAAxADMAMQBaADQAOABcAEEAZABtAGkAbgBpAHMAdAByAGEAdABvAHIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAM3sPEcuBpogewxA/JUulerX+aeRk1KdyrXRTHHtHBIb/81xGIxoKJgdsd8E0qyHB1n5MojYO4rar4j02TQRas7+zlvFm7T58ExJ6iaKh3eFKJt3HP4vzBTp2ShAjXzqVVapuzixzw14lSsiiQvzslu/6wH8W/ET0vbkVDrdjyvNAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAWIzCGpCsIXeQWn+sT3I5bXKw05IgNOGpcBo6VLXSbjENNrpljRaytAgcF2d/Sa77ESCIYAYVHiFZrnxIg8kPRQ0KhkPaN+Kz0V/pgnkRvQJ44cb1cze0qUksHd148B8TZOpUOcWH6PXUfJNeyjw0FYATPCPelxJjwkQYOnMVogA=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

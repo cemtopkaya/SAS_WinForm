@@ -1,0 +1,7 @@
+D:\Projects\VS\SAS_FMC\trunk\SASLib\bin\Debug\SASLib.dll
+D:\Projects\VS\SAS_FMC\trunk\SASLib\bin\Debug\SASLib.pdb
+D:\Projects\VS\SAS_FMC\trunk\SASLib\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projects\VS\SAS_FMC\trunk\SASLib\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+D:\Projects\VS\SAS_FMC\trunk\SASLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\VS\SAS_FMC\trunk\SASLib\obj\Debug\SASLib.dll
+D:\Projects\VS\SAS_FMC\trunk\SASLib\obj\Debug\SASLib.pdb
