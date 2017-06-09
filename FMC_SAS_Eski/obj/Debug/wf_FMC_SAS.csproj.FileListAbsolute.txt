@@ -1,0 +1,32 @@
+D:\Kisisel\Fresenius\Yazilim\Bilgisayar Yazılımı\C#\Birol Beyden gelen bilg. yazılımı\Yeni klasör\FMC_SAS_Eski\bin\Debug\FMC.exe.config
+D:\Kisisel\Fresenius\Yazilim\Bilgisayar Yazılımı\C#\Birol Beyden gelen bilg. yazılımı\Yeni klasör\FMC_SAS_Eski\obj\Debug\FMC.exe
+D:\Kisisel\Fresenius\Yazilim\Bilgisayar Yazılımı\C#\Birol Beyden gelen bilg. yazılımı\Yeni klasör\FMC_SAS_Eski\obj\Debug\FMC.pdb
+D:\Kisisel\Fresenius\Yazilim\Bilgisayar Yazılımı\C#\Birol Beyden gelen bilg. yazılımı\061210\FMC_SAS_Eski\bin\Debug\Database1.sdf
+D:\Kisisel\Fresenius\Yazilim\Bilgisayar Yazılımı\C#\Birol Beyden gelen bilg. yazılımı\061210\FMC_SAS_Eski\bin\Debug\FMC.exe.config
+D:\Kisisel\Fresenius\Yazilim\Bilgisayar Yazılımı\C#\Birol Beyden gelen bilg. yazılımı\061210\FMC_SAS_Eski\bin\Debug\FMC.exe.manifest
+D:\Kisisel\Fresenius\Yazilim\Bilgisayar Yazılımı\C#\Birol Beyden gelen bilg. yazılımı\061210\FMC_SAS_Eski\bin\Debug\FMC.application
+D:\Kisisel\Fresenius\Yazilim\Bilgisayar Yazılımı\C#\Birol Beyden gelen bilg. yazılımı\061210\FMC_SAS_Eski\bin\Debug\FMC.exe
+D:\Kisisel\Fresenius\Yazilim\Bilgisayar Yazılımı\C#\Birol Beyden gelen bilg. yazılımı\061210\FMC_SAS_Eski\bin\Debug\FMC.pdb
+D:\Kisisel\Fresenius\Yazilim\Bilgisayar Yazılımı\C#\Birol Beyden gelen bilg. yazılımı\061210\FMC_SAS_Eski\obj\Debug\ResolveAssemblyReference.cache
+D:\Kisisel\Fresenius\Yazilim\Bilgisayar Yazılımı\C#\Birol Beyden gelen bilg. yazılımı\061210\FMC_SAS_Eski\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Kisisel\Fresenius\Yazilim\Bilgisayar Yazılımı\C#\Birol Beyden gelen bilg. yazılımı\061210\FMC_SAS_Eski\obj\Debug\FMC.Properties.Resources.resources
+D:\Kisisel\Fresenius\Yazilim\Bilgisayar Yazılımı\C#\Birol Beyden gelen bilg. yazılımı\061210\FMC_SAS_Eski\obj\Debug\wf_FMC_SAS.csproj.GenerateResource.Cache
+D:\Kisisel\Fresenius\Yazilim\Bilgisayar Yazılımı\C#\Birol Beyden gelen bilg. yazılımı\061210\FMC_SAS_Eski\obj\Debug\RdlCompile.cache
+D:\Kisisel\Fresenius\Yazilim\Bilgisayar Yazılımı\C#\Birol Beyden gelen bilg. yazılımı\061210\FMC_SAS_Eski\obj\Debug\RdlCompile.compiled
+D:\Kisisel\Fresenius\Yazilim\Bilgisayar Yazılımı\C#\Birol Beyden gelen bilg. yazılımı\061210\FMC_SAS_Eski\obj\Debug\FMC.exe.manifest
+D:\Kisisel\Fresenius\Yazilim\Bilgisayar Yazılımı\C#\Birol Beyden gelen bilg. yazılımı\061210\FMC_SAS_Eski\obj\Debug\FMC.application
+D:\Kisisel\Fresenius\Yazilim\Bilgisayar Yazılımı\C#\Birol Beyden gelen bilg. yazılımı\061210\FMC_SAS_Eski\obj\Debug\FMC.exe
+D:\Kisisel\Fresenius\Yazilim\Bilgisayar Yazılımı\C#\Birol Beyden gelen bilg. yazılımı\061210\FMC_SAS_Eski\obj\Debug\FMC.pdb
+C:\Users\cem.topkaya\Desktop\SAS_FMC\trunk\FMC_SAS_Eski\bin\Debug\FMC.exe.config
+C:\Users\cem.topkaya\Desktop\SAS_FMC\trunk\FMC_SAS_Eski\obj\Debug\FMC.exe
+C:\Users\cem.topkaya\Desktop\SAS_FMC\trunk\FMC_SAS_Eski\obj\Debug\FMC.pdb
+D:\Projeler\SAS_FMC\trunk\FMC_SAS_Eski\bin\Debug\FMC.exe.config
+D:\Projeler\SAS_FMC\trunk\FMC_SAS_Eski\obj\Debug\FMC.exe
+D:\Projeler\SAS_FMC\trunk\FMC_SAS_Eski\obj\Debug\FMC.pdb
+D:\Projeler\SAS_FMC\trunk\FMC_SAS_Eski\obj\Debug\ResolveAssemblyReference.cache
+D:\Projeler\SAS_FMC\trunk\FMC_SAS_Eski\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Projeler\SAS_FMC\trunk\FMC_SAS_Eski\obj\Debug\FMC.Properties.Resources.resources
+D:\Projeler\SAS_FMC\trunk\FMC_SAS_Eski\obj\Debug\ResGen.read.1.tlog
+D:\Projeler\SAS_FMC\trunk\FMC_SAS_Eski\obj\Debug\ResGen.write.1.tlog
+D:\Projeler\SAS_FMC\trunk\FMC_SAS_Eski\obj\Debug\RdlCompile.cache
+D:\Projeler\SAS_FMC\trunk\FMC_SAS_Eski\obj\Debug\RdlCompile.compiled
