@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<configuration>
+  <configSections>
+    <sectionGroup name="applicationSettings" type="System.Configuration.ApplicationSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+      <section name="fmc_sas_yeni.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+    </sectionGroup>
+  </configSections>
+  <connectionStrings>
+    <add name="fmc_sas_yeni.Properties.Settings.dbCnnStr" connectionString="Data Source=D:\Kisisel\Fresenius\Yazilim\Bilgisayar Yazılımı\C#\Birol Beyden gelen bilg. yazılımı\061210\FMC_SAS_Eski\Database1.sdf;Password=q1w2e3r4."
+      providerName="Microsoft.SqlServerCe.Client.3.5" />
+    <add name="fmc_sas_yeni.Properties.Settings.dbConnectionString"
+      connectionString="Data Source=|DataDirectory|\db.sdf" providerName="Microsoft.SqlServerCe.Client.3.5" />
+  </connectionStrings>
+  <appSettings>
+    <add key="WSGonderme" value="http://sas.fresenius.com.tr/VeriAl.asmx"/>
+    <add key="WSAlma" value="http://sas.fresenius.com.tr/VeriSorgu.asmx"/>
+    <add key="LogName" value="SAS"/>
+  </appSettings>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/>
+  </startup>
+
+  <!--<configSections>
+        <section name="firebirdsql.data.firebirdclient" type="System.Data.Common.DbProviderConfigurationHandler, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+    </configSections>
+    <system.data>
+        <DbProviderFactories>
+            <add name="FirebirdClient Data Provider" invariant="FirebirdSql.Data.FirebirdClient" description=".Net Framework Data Provider for Firebird" type="FirebirdSql.Data.FirebirdClient.FirebirdClientFactory, FirebirdSql.Data.FirebirdClient, Version=2.6.0.0, Culture=neutral, PublicKeyToken=3750abcc3150b00c" />
+        </DbProviderFactories>
+    </system.data>-->
+  <applicationSettings>
+    <fmc_sas_yeni.Properties.Settings>
+      <setting name="fmc_sas_yeni_VeriAl_VeriAl" serializeAs="String">
+        <value>http://localhost:51733/VeriAl.asmx</value>
+      </setting>
+    </fmc_sas_yeni.Properties.Settings>
+  </applicationSettings>
+</configuration>
