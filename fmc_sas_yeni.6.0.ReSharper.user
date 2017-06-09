@@ -1,0 +1,860 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="11EDB28E-353F-4C24-9900-E3FC3408BE80/f:LisansBilgileri.cs" caret="1195" fromTop="28" />
+      <File id="11EDB28E-353F-4C24-9900-E3FC3408BE80/f:Logger.cs" caret="190" fromTop="7" />
+      <File id="C6A6DB15-0023-4E37-AEA9-DD43238D61C6/f:Commander.cs" caret="2543" fromTop="23" />
+      <File id="11EDB28E-353F-4C24-9900-E3FC3408BE80/d:Properties/f:Resources.resx" caret="8111" fromTop="27" />
+      <File id="5344EA14-ECDF-4EBA-B3D7-5200DF0B2DC2/f:Yonetim.asmx.cs" caret="0" fromTop="0" />
+      <File id="5344EA14-ECDF-4EBA-B3D7-5200DF0B2DC2/f:Web.config" caret="2693" fromTop="25" />
+      <File id="11EDB28E-353F-4C24-9900-E3FC3408BE80/f:SeriNoUretec.Designer.cs" caret="951" fromTop="29" />
+      <File id="11EDB28E-353F-4C24-9900-E3FC3408BE80/f:ServisBilgileri.cs" caret="1514" fromTop="37" />
+      <File id="11EDB28E-353F-4C24-9900-E3FC3408BE80/f:app.config" caret="682" fromTop="11" />
+      <File id="C6A6DB15-0023-4E37-AEA9-DD43238D61C6/f:Log.cs" caret="1722" fromTop="21" />
+      <File id="11EDB28E-353F-4C24-9900-E3FC3408BE80/f:SeriNoUretec.cs" caret="2165" fromTop="21" />
+      <File id="11EDB28E-353F-4C24-9900-E3FC3408BE80/f:Program.cs" caret="1506" fromTop="23" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:Program.cs" caret="966" fromTop="15" />
+      <File id="C6A6DB15-0023-4E37-AEA9-DD43238D61C6/f:Extensions.cs" caret="1579" fromTop="11" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/d:Properties/f:Settings.Designer.cs" caret="1083" fromTop="18" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/d:Properties/f:Settings.settings" caret="294" fromTop="4" />
+      <File id="C6A6DB15-0023-4E37-AEA9-DD43238D61C6/f:Lisans.cs" caret="4934" fromTop="9" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/d:Properties/f:AssemblyInfo.cs" caret="486" fromTop="2" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:GraphOneWindow.cs" caret="302" fromTop="11" />
+      <File id="C6A6DB15-0023-4E37-AEA9-DD43238D61C6/f:Logger.cs" caret="241" fromTop="11" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:app.config" caret="2675" fromTop="10" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:ServisAyarlari.cs" caret="295" fromTop="13" />
+      <File id="11EDB28E-353F-4C24-9900-E3FC3408BE80/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="C6A6DB15-0023-4E37-AEA9-DD43238D61C6/f:PortControl.cs" caret="11358" fromTop="10" />
+      <File id="C6A6DB15-0023-4E37-AEA9-DD43238D61C6/f:Alarm.cs" caret="171" fromTop="6" />
+      <File id="C6A6DB15-0023-4E37-AEA9-DD43238D61C6/f:DAL.cs" caret="15827" fromTop="17" />
+      <File id="5344EA14-ECDF-4EBA-B3D7-5200DF0B2DC2/f:VeriAl.asmx.cs" caret="1766" fromTop="32" />
+      <File id="C6A6DB15-0023-4E37-AEA9-DD43238D61C6/f:InternetCS.cs" caret="497" fromTop="15" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:VeriCekGoster.cs" caret="1407" fromTop="23" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/d:Properties/f:AssemblyInfo.cs" caret="486" fromTop="11" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:app.config" caret="2676" fromTop="4" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:app.config" caret="2676" fromTop="26" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:app.config" caret="2676" fromTop="30" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:VeriCekGoster.cs" caret="1317" fromTop="12" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:VeriCekGoster.cs" caret="1289" fromTop="17" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/d:Properties/f:Settings.settings" caret="197" fromTop="4" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:app.config" caret="2676" fromTop="14" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:VeriCekGoster.cs" caret="769" fromTop="16" />
+      <File id="11EDB28E-353F-4C24-9900-E3FC3408BE80/f:Program.cs" caret="1599" fromTop="31" />
+      <File id="11EDB28E-353F-4C24-9900-E3FC3408BE80/f:Program.cs" caret="698" fromTop="9" />
+      <File id="C6A6DB15-0023-4E37-AEA9-DD43238D61C6/f:Extensions.cs" caret="2105" fromTop="11" />
+      <File id="C6A6DB15-0023-4E37-AEA9-DD43238D61C6/f:Extensions.cs" caret="2673" fromTop="11" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:VeriCekGoster.cs" caret="22879" fromTop="25" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:app.config" caret="2675" fromTop="10" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:VeriCekGoster.cs" caret="26967" fromTop="18" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:VeriCekGoster.cs" caret="27493" fromTop="28" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:VeriCekGoster.cs" caret="28143" fromTop="12" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:VeriCekGoster.cs" caret="992" fromTop="30" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:VeriCekGoster.cs" caret="1983" fromTop="36" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:VeriCekGoster.cs" caret="2675" fromTop="36" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:VeriCekGoster.cs" caret="14403" fromTop="27" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:VeriCekGoster.cs" caret="14491" fromTop="51" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:VeriCekGoster.cs" caret="29712" fromTop="22" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:VeriCekGoster.cs" caret="11288" fromTop="26" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:VeriCekGoster.cs" caret="9055" fromTop="17" />
+      <File id="C6A6DB15-0023-4E37-AEA9-DD43238D61C6/f:Alarm.cs" caret="8237" fromTop="6" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:VeriCekGoster.cs" caret="29694" fromTop="24" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:VeriCekGoster.cs" caret="8237" fromTop="21" />
+      <File id="D1902677-EB7D-4500-943B-1094647C8F37/f:VeriCekGoster.cs" caret="29305" fromTop="27" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="chart1" priority="277" />
+      <Item value="new" priority="1221" />
+      <Item value="DataPoint" priority="86" />
+      <Item value="public" priority="223" />
+      <Item value="DataTable`0" priority="248" />
+      <Item value="string" priority="1749" />
+      <Item value="f_ExecuteDataTable`0" priority="90" />
+      <Item value="SchemaSerializationMode`0" priority="31" />
+      <Item value="sSQL" priority="31" />
+      <Item value="dtBas" priority="159" />
+      <Item value="Show`0" priority="31" />
+      <Item value="btnGoruntule" priority="63" />
+      <Item value="Graphs" priority="29" />
+      <Item value="DateTime`0" priority="347" />
+      <Item value="_dtSon" priority="95" />
+      <Item value="return" priority="1306" />
+      <Item value="dt" priority="441" />
+      <Item value="DAL" priority="86" />
+      <Item value="dal" priority="223" />
+      <Item value="dtSon" priority="31" />
+      <Item value="Series" priority="57" />
+      <Item value="Chart`0" priority="248" />
+      <Item value="Series`0" priority="63" />
+      <Item value="serieGirisIletkenligi" priority="159" />
+      <Item value="foreach" priority="287" />
+      <Item value="DataRow`0" priority="155" />
+      <Item value="DataPoint`0" priority="26" />
+      <Item value="dp" priority="31" />
+      <Item value="DateTime" priority="74" />
+      <Item value="row" priority="191" />
+      <Item value="Line" priority="16" />
+      <Item value="true" priority="351" />
+      <Item value="e" priority="159" />
+      <Item value="MouseButtons" priority="31" />
+      <Item value="double" priority="63" />
+      <Item value="xSon" priority="161" />
+      <Item value="ySon" priority="63" />
+      <Item value="xBas" priority="31" />
+      <Item value="if" priority="1471" />
+      <Item value="cbGraph" priority="26" />
+      <Item value="null" priority="1141" />
+      <Item value="switch" priority="63" />
+      <Item value="case" priority="63" />
+      <Item value="break" priority="159" />
+      <Item value="void" priority="319" />
+      <Item value="delegate" priority="32" />
+      <Item value="MessageBox`0" priority="577" />
+      <Item value="try" priority="191" />
+      <Item value="FtpWebRequest`0" priority="31" />
+      <Item value="Turkiye" priority="61" />
+      <Item value="M_CnnStr" priority="31" />
+      <Item value="thr" priority="191" />
+      <Item value="Exception" priority="146" />
+      <Item value="FirebirdSql.Data" priority="25" />
+      <Item value="FirebirdClient" priority="22" />
+      <Item value="DataRetrieve`0" priority="90" />
+      <Item value="DataRetrieve" priority="57" />
+      <Item value="d" priority="31" />
+      <Item value="DAL`0" priority="95" />
+      <Item value="cnnStr" priority="31" />
+      <Item value="System" priority="63" />
+      <Item value="Reflection" priority="26" />
+      <Item value="Assembly`0" priority="26" />
+      <Item value="typeof" priority="63" />
+      <Item value="DataSet`0" priority="95" />
+      <Item value="DataSet" priority="28" />
+      <Item value="ds" priority="63" />
+      <Item value="dtNonSync" priority="94" />
+      <Item value="sNonSyncRefCekmeIds" priority="95" />
+      <Item value="sqlInstantValues" priority="31" />
+      <Item value="sDEVICESERIAL" priority="63" />
+      <Item value="sqlLogs" priority="31" />
+      <Item value="SettedValues`0" priority="31" />
+      <Item value="FbDataReader`0" priority="58" />
+      <Item value="fbdr" priority="31" />
+      <Item value="command" priority="31" />
+      <Item value="_ds" priority="191" />
+      <Item value="bool" priority="223" />
+      <Item value="copy" priority="64" />
+      <Item value="SqlBulkCopy" priority="28" />
+      <Item value="sCnnStr" priority="31" />
+      <Item value="cnn" priority="246" />
+      <Item value="SqlDataAdapter`0" priority="63" />
+      <Item value="SqlCommand" priority="28" />
+      <Item value="cmd" priority="191" />
+      <Item value="da" priority="95" />
+      <Item value="DataTable" priority="86" />
+      <Item value="dtTemp" priority="127" />
+      <Item value="for" priority="63" />
+      <Item value="DataColumn`0" priority="30" />
+      <Item value="dataColumn" priority="63" />
+      <Item value="dataTable" priority="95" />
+      <Item value="false" priority="479" />
+      <Item value="sqlDataRetrieves" priority="31" />
+      <Item value="TargetException`0" priority="31" />
+      <Item value="Timer" priority="28" />
+      <Item value="EventArgs`0" priority="31" />
+      <Item value="timer" priority="31" />
+      <Item value="f_ProgramiGuncelle`0" priority="31" />
+      <Item value="f_CekGonder`0" priority="63" />
+      <Item value="sqlUpdateDataretrieves" priority="26" />
+      <Item value="bBasari" priority="63" />
+      <Item value="VeriAl`0" priority="107" />
+      <Item value="veriAl" priority="32" />
+      <Item value="VeriAl" priority="150" />
+      <Item value="webSrvc" priority="181" />
+      <Item value="bSonuc" priority="223" />
+      <Item value="girisUretimSerie" priority="31" />
+      <Item value="_sSeriAdi" priority="63" />
+      <Item value="chVerim" priority="31" />
+      <Item value="private" priority="31" />
+      <Item value="DataTableReader`0" priority="31" />
+      <Item value="this" priority="351" />
+      <Item value="int" priority="191" />
+      <Item value="Convert`0" priority="95" />
+      <Item value="iDataretrieveId" priority="31" />
+      <Item value="sqlLastGirisUretimSicaklik" priority="31" />
+      <Item value="var" priority="95" />
+      <Item value="tbAnlikAlarmSayisi" priority="31" />
+      <Item value="tbAnlikUretimIletkenlik" priority="31" />
+      <Item value="tbAnlikGirisIletkenlik" priority="31" />
+      <Item value="tbAnlikSicaklik" priority="31" />
+      <Item value="tbAnlikDezenfeksiyonSayisi" priority="31" />
+      <Item value="tbAnlikCalismaSaati" priority="31" />
+      <Item value="alarmlar_lb" priority="31" />
+      <Item value="lbAlarmlar" priority="63" />
+      <Item value="dataRow" priority="95" />
+      <Item value="VeriCekGoster" priority="29" />
+      <Item value="ex" priority="351" />
+      <Item value="MemoryStream" priority="28" />
+      <Item value="MemoryStream`0" priority="31" />
+      <Item value="ms" priority="31" />
+      <Item value="StreamReader`0" priority="31" />
+      <Item value="StreamReader" priority="28" />
+      <Item value="StringReader`0" priority="31" />
+      <Item value="tex" priority="31" />
+      <Item value="ua" priority="31" />
+      <Item value="uaEx" priority="26" />
+      <Item value="Environment`0" priority="95" />
+      <Item value="sDesc" priority="31" />
+      <Item value="#endif" priority="287" />
+      <Item value="File`0" priority="94" />
+      <Item value="sPath" priority="222" />
+      <Item value="throw" priority="95" />
+      <Item value="sAlarmTipi" priority="31" />
+      <Item value="ctl" priority="31" />
+      <Item value="chart" priority="95" />
+      <Item value="s" priority="253" />
+      <Item value="chartType" priority="58" />
+      <Item value="series" priority="63" />
+      <Item value="SeriesChartType`0" priority="31" />
+      <Item value="sender" priority="64" />
+      <Item value="as" priority="190" />
+      <Item value="ToolStripMenuItem`0" priority="32" />
+      <Item value="menuItem" priority="63" />
+      <Item value="_frm" priority="63" />
+      <Item value="VeriCekGoster`0" priority="117" />
+      <Item value="frmVeriCekGonder" priority="63" />
+      <Item value="cbDeviceSerials" priority="31" />
+      <Item value="f_ExecuteOneRow`0" priority="26" />
+      <Item value="dr" priority="126" />
+      <Item value="#if" priority="255" />
+      <Item value="iCountNotSync" priority="31" />
+      <Item value="tbVeriGonderme" priority="58" />
+      <Item value="tbVeriAlma" priority="85" />
+      <Item value="ResourceManager" priority="26" />
+      <Item value="Form`0" priority="31" />
+      <Item value="_sLogTopic" priority="95" />
+      <Item value="DataColumn" priority="28" />
+      <Item value="String`0" priority="58" />
+      <Item value="type" priority="31" />
+      <Item value="EventLogs" priority="28" />
+      <Item value="dgvLogs" priority="90" />
+      <Item value="GetEventLogs`0" priority="31" />
+      <Item value="c" priority="95" />
+      <Item value="i" priority="62" />
+      <Item value="static" priority="190" />
+      <Item value="btnTazele_Click`0" priority="26" />
+      <Item value="ServisAyarlari" priority="29" />
+      <Item value="HataKayitlari" priority="28" />
+      <Item value="sGondermeWS" priority="127" />
+      <Item value="ws" priority="63" />
+      <Item value="Uri`0" priority="31" />
+      <Item value="UriKind" priority="28" />
+      <Item value="UriKind`0" priority="31" />
+      <Item value="Exception`0" priority="128" />
+      <Item value="Registry`0" priority="63" />
+      <Item value="short" priority="26" />
+      <Item value="regKeySas" priority="63" />
+      <Item value="f_GenerateKey`0" priority="63" />
+      <Item value="GetMd5Sum`0" priority="31" />
+      <Item value="tbKey" priority="94" />
+      <Item value="M_Licence" priority="31" />
+      <Item value="Lisans`0" priority="409" />
+      <Item value="tbAnahtar" priority="117" />
+      <Item value="_sKey" priority="158" />
+      <Item value="f_GetCPUIdFromKey`0" priority="26" />
+      <Item value="f_GenerateDateTimeAndCpuId`0" priority="26" />
+      <Item value="sKey" priority="86" />
+      <Item value="sCpuId" priority="63" />
+      <Item value="sDateTime" priority="63" />
+      <Item value="decimalCpuId" priority="31" />
+      <Item value="sDecimalCpuId" priority="58" />
+      <Item value="_sSerial" priority="31" />
+      <Item value="tbSeriNo" priority="207" />
+      <Item value="regSas" priority="31" />
+      <Item value="_sAnahtar" priority="181" />
+      <Item value="_sSeriNo" priority="117" />
+      <Item value="finally" priority="31" />
+      <Item value="sAnahtar" priority="220" />
+      <Item value="sSeriNo" priority="94" />
+      <Item value="_sSerialNo" priority="26" />
+      <Item value="UrunuKaydet" priority="57" />
+      <Item value="while" priority="31" />
+      <Item value="out" priority="127" />
+      <Item value="sSerial" priority="149" />
+      <Item value="object" priority="31" />
+      <Item value="o1" priority="32" />
+      <Item value="objAnahtar" priority="80" />
+      <Item value="objSeriNo" priority="152" />
+      <Item value="Array`0" priority="63" />
+      <Item value="sArrAnahtar" priority="63" />
+      <Item value="Length" priority="26" />
+      <Item value="else" priority="223" />
+      <Item value="bLisansli" priority="126" />
+      <Item value="DialogResult" priority="58" />
+      <Item value="Cancel" priority="33" />
+      <Item value="CommandBehavior`0" priority="31" />
+      <Item value="SqlDataAdapter" priority="28" />
+      <Item value="dtBolgeler" priority="58" />
+      <Item value="Yonetim`0" priority="45" />
+      <Item value="wsrc" priority="85" />
+      <Item value="cbBolgesi" priority="107" />
+      <Item value="SoapHeader" priority="26" />
+      <Item value="Authentication" priority="30" />
+      <Item value="UnauthorizedAccessException" priority="26" />
+      <Item value="btnLisansKaydet" priority="31" />
+      <Item value="ServisVeKullaniciBilgileri" priority="53" />
+      <Item value="bLisanslandi" priority="31" />
+      <Item value="catch" priority="90" />
+      <Item value="ctor" priority="63" />
+      <Item value="_sUserName" priority="31" />
+      <Item value="_sPass" priority="31" />
+      <Item value="AuthHeader" priority="22" />
+      <Item value="Username" priority="26" />
+      <Item value="M_Authentication" priority="153" />
+      <Item value="MessageBoxButtons`0" priority="127" />
+      <Item value="MessageBoxIcon`0" priority="127" />
+      <Item value="LisansBilgileri" priority="53" />
+      <Item value="tbKurumAdi" priority="26" />
+      <Item value="tbYetkili" priority="26" />
+      <Item value="Open" priority="67" />
+      <Item value="_sBolgesi" priority="61" />
+      <Item value="SByte`0" priority="30" />
+      <Item value="ArgumentNullException" priority="26" />
+      <Item value="iEtkilene" priority="30" />
+      <Item value="SqlDbType`0" priority="31" />
+      <Item value="NotImplementedException" priority="26" />
+      <Item value="sLog" priority="31" />
+      <Item value="sDeviceSerial" priority="91" />
+      <Item value="m_CurrentChartType" priority="31" />
+      <Item value="class" priority="30" />
+      <Item value="Debug`0" priority="31" />
+      <Item value="cpuId" priority="31" />
+      <Item value="time" priority="31" />
+      <Item value="key" priority="127" />
+      <Item value="sResult" priority="127" />
+      <Item value="forr" priority="31" />
+      <Item value="char" priority="31" />
+      <Item value="continue" priority="31" />
+      <Item value="cpuid" priority="31" />
+      <Item value="_iBolge_id" priority="31" />
+      <Item value="_sYetkili" priority="31" />
+      <Item value="_sKurumAdi" priority="31" />
+      <Item value="GroupBox`0" priority="27" />
+      <Item value="List" priority="31" />
+      <Item value="List&lt;Chart&gt;" priority="28" />
+      <Item value="lstCharts" priority="85" />
+      <Item value="btnBaglanti" priority="26" />
+      <Item value="thPbUpdate" priority="31" />
+      <Item value="thRetrieveInsert" priority="31" />
+      <Item value="btnUpdate" priority="58" />
+      <Item value="f_ThreadStop`0" priority="31" />
+      <Item value="Log`0" priority="30" />
+      <Item value="_log" priority="30" />
+      <Item value="l" priority="30" />
+      <Item value="sFullDate" priority="31" />
+      <Item value="iYil" priority="96" />
+      <Item value="M_Month" priority="62" />
+      <Item value="iBuAy" priority="124" />
+      <Item value="Hakkinda" priority="26" />
+      <Item value="sQL" priority="31" />
+      <Item value="sonuc" priority="31" />
+      <Item value="f_CihazSeriNumaralariniBagla`0" priority="31" />
+      <Item value="ch" priority="63" />
+      <Item value="do" priority="31" />
+      <Item value="y" priority="31" />
+      <Item value="Graphs`0" priority="95" />
+      <Item value="_dal" priority="31" />
+      <Item value="_dtBas" priority="31" />
+      <Item value="_ch" priority="31" />
+      <Item value="_sDeviceSerial" priority="31" />
+      <Item value="wex" priority="31" />
+      <Item value="Yonetim" priority="28" />
+      <Item value="FileStyleUriParser`0" priority="30" />
+      <Item value="FileStream`0" priority="31" />
+      <Item value="fs" priority="31" />
+      <Item value="sw" priority="127" />
+      <Item value="_str" priority="31" />
+      <Item value="_sDescription" priority="31" />
+      <Item value="theDirectory" priority="31" />
+      <Item value="Message`0" priority="26" />
+      <Item value="btnBaglanti_BaglantiyiKes_Click`0" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataVisualization.Charting.Chart">
+      <Item value="ChartAreas" priority="184" />
+      <Item value="Series" priority="135" />
+      <Item value="DoubleClick" priority="22" />
+      <Item value="MouseClick" priority="53" />
+      <Item value="MouseUp" priority="53" />
+      <Item value="Legends" priority="26" />
+      <Item value="Cursor" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataVisualization.Charting.Series">
+      <Item value="Points" priority="80" />
+      <Item value="XValueType" priority="26" />
+      <Item value="ChartType" priority="80" />
+      <Item value="Name" priority="54" />
+      <Item value="ChartArea" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataVisualization.Charting.DataPointCollection">
+      <Item value="Add`0" priority="80" />
+      <Item value="AddXY`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationManager">
+      <Item value="AppSettings" priority="101" />
+      <Item value="ConnectionStrings" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="26" />
+      <Item value="Trim`0" priority="26" />
+      <Item value="ToCharArray`0" priority="80" />
+      <Item value="Replace`0" priority="53" />
+      <Item value="ToUpper`0" priority="26" />
+      <Item value="Length" priority="180" />
+      <Item value="Substring`0" priority="161" />
+      <Item value="Equals`0" priority="53" />
+      <Item value="Reverse`1" priority="26" />
+      <Item value="ReverseString`0" priority="53" />
+      <Item value="SqlAsteriks`0" priority="26" />
+      <Item value="LogToTempFile`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DateTimePicker">
+      <Item value="Value" priority="103" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Text" priority="53" />
+      <Item value="Enabled" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="26" />
+      <Item value="IsNullOrEmpty`0" priority="215" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToString`0" priority="26" />
+      <Item value="AddDays`0" priority="26" />
+      <Item value="Year" priority="53" />
+      <Item value="Month" priority="22" />
+      <Item value="AddYears`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:fmc_sas_yeni.DAL">
+      <Item value="f_GetGirisIletkenligi`0" priority="26" />
+      <Item value="f_GetUretimIletkenligi`0" priority="22" />
+      <Item value="f_GetSicaklik`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataVisualization.Charting.SeriesCollection">
+      <Item value="Add`0" priority="53" />
+      <Item value="Clear`0" priority="26" />
+      <Item value="Select`2" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="Rows" priority="265" />
+      <Item value="ImportRow`0" priority="26" />
+      <Item value="Clone`0" priority="22" />
+      <Item value="Copy`0" priority="22" />
+      <Item value="DefaultView" priority="22" />
+      <Item value="Columns" priority="53" />
+      <Item value="TableName" priority="26" />
+      <Item value="NewRow`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataVisualization.Charting.DataPoint">
+      <Item value="XValue" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Today" priority="26" />
+      <Item value="Now" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataVisualization.Charting.ChartArea">
+      <Item value="AxisX" priority="26" />
+      <Item value="CursorX" priority="105" />
+      <Item value="Position" priority="27" />
+      <Item value="Axes" priority="27" />
+      <Item value="AxisY" priority="22" />
+      <Item value="CursorY" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataVisualization.Charting.Axis">
+      <Item value="ScaleView" priority="22" />
+      <Item value="ScrollBar" priority="22" />
+      <Item value="Minimum" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataVisualization.Charting.AxisScaleView">
+      <Item value="Zoomable" priority="26" />
+      <Item value="Zoom`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataVisualization.Charting.Cursor">
+      <Item value="AutoScroll" priority="26" />
+      <Item value="SetCursorPosition`0" priority="26" />
+      <Item value="SetCursorPixelPosition`0" priority="22" />
+      <Item value="Position" priority="26" />
+      <Item value="IsUserSelectionEnabled" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.MouseEventArgs">
+      <Item value="Button" priority="49" />
+      <Item value="X" priority="53" />
+      <Item value="Y" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.MouseButtons">
+      <Item value="Left" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataVisualization.Charting.ElementPosition">
+      <Item value="X" priority="26" />
+      <Item value="Auto" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="SelectedText" priority="49" />
+      <Item value="SelectedValue" priority="91" />
+      <Item value="SelectedItem" priority="146" />
+      <Item value="DataSource" priority="22" />
+      <Item value="ValueMember" priority="22" />
+      <Item value="DisplayMember" priority="22" />
+      <Item value="SelectedIndex" priority="22" />
+      <Item value="Text" priority="50" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="289" />
+      <Item value="To`1" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="404" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.FtpWebRequest">
+      <Item value="Create`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FMC.Turkiye.SAS.DAL">
+      <Item value="f_ConnectionString`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FirebirdSql.Data.FirebirdClient.FbConnectionStringBuilder">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="GetAssembly`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Assembly">
+      <Item value="Location" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FMC.Turkiye.SAS.DAL">
+      <Item value="f_ExecuteDataTable`0" priority="26" />
+      <Item value="f_ExecuteNonQuery`0" priority="22" />
+      <Item value="f_GetOneCell`0" priority="76" />
+      <Item value="f_GetFirstLogDateOfDeviceFromDB`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataSet">
+      <Item value="Tables" priority="134" />
+      <Item value="WriteXml`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTableCollection">
+      <Item value="Add`0" priority="26" />
+      <Item value="IndexOf`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlConnection">
+      <Item value="Open`0" priority="54" />
+      <Item value="CreateCommand`0" priority="26" />
+      <Item value="State" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlDataAdapter">
+      <Item value="Fill`0" priority="80" />
+      <Item value="Update`0" priority="55" />
+      <Item value="ContinueUpdateOnError" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlCommand">
+      <Item value="CommandText" priority="80" />
+      <Item value="ExecuteScalar`0" priority="26" />
+      <Item value="ExecuteNonQuery`0" priority="22" />
+      <Item value="Parameters" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRowCollection">
+      <Item value="Add`0" priority="53" />
+      <Item value="Count" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataView">
+      <Item value="ToTable`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlBulkCopy">
+      <Item value="ColumnMappings" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlBulkCopyColumnMappingCollection">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataColumn">
+      <Item value="ColumnName" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SASLib.InternetCS">
+      <Item value="IsConnectedToInternet`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Timers.Timer">
+      <Item value="Elapsed" priority="26" />
+      <Item value="Interval" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:wsUpdaterAndUploader.VeriAl.VeriAl">
+      <Item value="f_VeriAl`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="53" />
+      <Item value="ToSByte`0" priority="26" />
+      <Item value="ToDouble`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="531" />
+      <Item value="Enabled" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox">
+      <Item value="ItemHeight" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox+ObjectCollection">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadToEnd`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="StackTrace" priority="22" />
+      <Item value="Message" priority="49" />
+      <Item value="Source" priority="22" />
+      <Item value="LogException`0" priority="242" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="NewLine" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Exists`0" priority="53" />
+      <Item value="Create`0" priority="26" />
+      <Item value="Open`0" priority="26" />
+      <Item value="AppendText`0" priority="22" />
+      <Item value="CreateText`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:fmc_sas_yeni.VeriCekGoster">
+      <Item value="pnlGraph" priority="26" />
+      <Item value="f_CihazSeriNumaralariniBagla`0" priority="26" />
+      <Item value="menuItemGrafikler" priority="23" />
+      <Item value="Close`0" priority="53" />
+      <Item value="groupBox1" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Any`1" priority="26" />
+      <Item value="SingleOrDefault`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DataVisualization.Charting.SeriesChartType">
+      <Item value="Point" priority="22" />
+      <Item value="Stock" priority="22" />
+      <Item value="Spline" priority="27" />
+      <Item value="Area" priority="27" />
+      <Item value="Line" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataVisualization.Charting.Legend">
+      <Item value="Title" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripMenuItem">
+      <Item value="Text" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:fmc_sas_yeni.VeriAl.VeriAl">
+      <Item value="f_VeriAl`0" priority="26" />
+      <Item value="Url" priority="76" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:fmc_sas_yeni.EventLogs">
+      <Item value="Icon" priority="26" />
+      <Item value="Width" priority="26" />
+      <Item value="ClientSize" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ComponentModel.ComponentResourceManager">
+      <Item value="CreateFileBasedResourceManager`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Resources.ResourceManager">
+      <Item value="CreateFileBasedResourceManager`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataColumnCollection">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.EventLogEntry">
+      <Item value="EntryType" priority="22" />
+      <Item value="Message" priority="27" />
+      <Item value="TimeGenerated" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.EventLogEntryType">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridView">
+      <Item value="DataSource" priority="27" />
+      <Item value="Columns" priority="26" />
+      <Item value="ReadOnly" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewColumn">
+      <Item value="Width" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewColumnCollection">
+      <Item value="Count" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Size">
+      <Item value="Width" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:fmc_sas_yeni.ServisAyarlari">
+      <Item value="Show`0" priority="26" />
+      <Item value="ShowDialog`0" priority="22" />
+      <Item value="MaximizeBox" priority="26" />
+      <Item value="Close`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:fmc_sas_yeni.HataKayitlari">
+      <Item value="ShowDialog`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Uri">
+      <Item value="IsWellFormedUriString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.UriKind">
+      <Item value="Absolute" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FMC.Turkiye.SAS.Lisans">
+      <Item value="f_GetCPUId`0" priority="49" />
+      <Item value="f_GetSerialFromKey`0" priority="72" />
+      <Item value="f_IsSerialValid`0" priority="76" />
+      <Item value="isLicenced" priority="45" />
+      <Item value="f_SetLicenceSerial`0" priority="53" />
+      <Item value="f_GetLicenceSerial`0" priority="26" />
+      <Item value="f_GenerateKey`0" priority="26" />
+      <Item value="f_GetLicenceSerialFromReg`0" priority="23" />
+      <Item value="f_IsSerialValidForThisMachine`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int64">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Win32.Registry">
+      <Item value="GetValue`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Win32.RegistryKey">
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Win32.RegistryValueKind">
+      <Item value="String" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:fmc_sas_yeni.UrunuKaydet">
+      <Item value="ShowDialog`0" priority="53" />
+      <Item value="Close`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Boolean">
+      <Item value="To`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@fmc_sas_yeni.VeriCekGoster">
+      <Item value="bAktivasyonOk" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DialogResult">
+      <Item value="OK" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Configuration.ConnectionStringSettings">
+      <Item value="ConnectionString" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SeriUretec.Yonetim.Yonetim">
+      <Item value="f_Bolgeler`0" priority="22" />
+      <Item value="AuthHeaderValue" priority="22" />
+      <Item value="Url" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SeriUretec.SeriNoUretec">
+      <Item value="Close`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:websrvcSAS.AuthHeader">
+      <Item value="Username" priority="107" />
+      <Item value="Password" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxButtons">
+      <Item value="OK" priority="153" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxIcon">
+      <Item value="Information" priority="237" />
+      <Item value="Exclamation" priority="210" />
+      <Item value="Error" priority="118" />
+      <Item value="Stop" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SeriUretec.LisansBilgileri">
+      <Item value="Close`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlParameterCollection">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.SqlDbType">
+      <Item value="VarChar" priority="26" />
+      <Item value="Int" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@websrvcSAS.Lisans">
+      <Item value="f_GetSerialFromKey`0" priority="26" />
+      <Item value="f_GenerateDateTimeAndCpuId`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debugger">
+      <Item value="Break`0" priority="26" />
+      <Item value="Launch`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Array">
+      <Item value="Reverse`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlParameter">
+      <Item value="Value" priority="161" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="26" />
+      <Item value="Sort`0" priority="26" />
+      <Item value="OrderBy`2" priority="26" />
+      <Item value="OrderByDescending`2" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Abort`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FMC.Turkiye.SAS.Log">
+      <Item value="M_Month" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IOrderedEnumerable`1">
+      <Item value="Take`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:fmc_sas_yeni.Hakkinda">
+      <Item value="Close`0" priority="26" />
+      <Item value="ShowDialog`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@fmc_sas_yeni.Graphs">
+      <Item value="f_GraphSeries`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebException">
+      <Item value="Status" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SeriUretec.Properties.Settings">
+      <Item value="Default" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SeriUretec.Properties.Settings">
+      <Item value="SettingsKey" priority="49" />
+      <Item value="SeriUretec_Yonetim_Yonetim" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationUserLevel">
+      <Item value="None" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.WebExceptionStatus">
+      <Item value="SendFailure" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Write`0" priority="26" />
+      <Item value="WriteLine`0" priority="50" />
+      <Item value="Close`0" priority="26" />
+      <Item value="Flush`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.Encoding">
+      <Item value="UTF8" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FMC.Turkiye.SAS.VeriAl.VeriAl">
+      <Item value="Url" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
