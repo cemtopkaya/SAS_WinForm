@@ -1,0 +1,12 @@
+D:\Projects\VS\SAS_FMC\trunk\wsUpdaterAndUploader\bin\Debug\wsUpdaterAndUploader.exe.config
+D:\Projects\VS\SAS_FMC\trunk\wsUpdaterAndUploader\bin\Debug\wsUpdaterAndUploader.exe
+D:\Projects\VS\SAS_FMC\trunk\wsUpdaterAndUploader\bin\Debug\wsUpdaterAndUploader.pdb
+D:\Projects\VS\SAS_FMC\trunk\wsUpdaterAndUploader\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projects\VS\SAS_FMC\trunk\wsUpdaterAndUploader\bin\Debug\SASLib.dll
+D:\Projects\VS\SAS_FMC\trunk\wsUpdaterAndUploader\bin\Debug\SASLib.pdb
+D:\Projects\VS\SAS_FMC\trunk\wsUpdaterAndUploader\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\VS\SAS_FMC\trunk\wsUpdaterAndUploader\obj\x86\Debug\wsUpdaterAndUploader.ProjectInstaller.resources
+D:\Projects\VS\SAS_FMC\trunk\wsUpdaterAndUploader\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\VS\SAS_FMC\trunk\wsUpdaterAndUploader\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\VS\SAS_FMC\trunk\wsUpdaterAndUploader\obj\x86\Debug\wsUpdaterAndUploader.exe
+D:\Projects\VS\SAS_FMC\trunk\wsUpdaterAndUploader\obj\x86\Debug\wsUpdaterAndUploader.pdb

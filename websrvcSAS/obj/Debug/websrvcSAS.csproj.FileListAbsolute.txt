@@ -1,0 +1,5 @@
+D:\Projects\VS\SAS_FMC\trunk\websrvcSAS\bin\websrvcSAS.dll
+D:\Projects\VS\SAS_FMC\trunk\websrvcSAS\bin\websrvcSAS.pdb
+D:\Projects\VS\SAS_FMC\trunk\websrvcSAS\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\VS\SAS_FMC\trunk\websrvcSAS\obj\Debug\websrvcSAS.dll
+D:\Projects\VS\SAS_FMC\trunk\websrvcSAS\obj\Debug\websrvcSAS.pdb

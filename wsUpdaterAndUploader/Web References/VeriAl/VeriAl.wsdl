@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="f_VeriAl">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="_ds">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="f_VeriAlResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="f_VeriAlResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="f_VeriAlSoapIn">
+    <wsdl:part name="parameters" element="tns:f_VeriAl" />
+  </wsdl:message>
+  <wsdl:message name="f_VeriAlSoapOut">
+    <wsdl:part name="parameters" element="tns:f_VeriAlResponse" />
+  </wsdl:message>
+  <wsdl:portType name="VeriAlSoap">
+    <wsdl:operation name="f_VeriAl">
+      <wsdl:input message="tns:f_VeriAlSoapIn" />
+      <wsdl:output message="tns:f_VeriAlSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="VeriAlSoap" type="tns:VeriAlSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="f_VeriAl">
+      <soap:operation soapAction="http://tempuri.org/f_VeriAl" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="VeriAlSoap12" type="tns:VeriAlSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="f_VeriAl">
+      <soap12:operation soapAction="http://tempuri.org/f_VeriAl" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="VeriAl">
+    <wsdl:port name="VeriAlSoap" binding="tns:VeriAlSoap">
+      <soap:address location="http://localhost:51733/VeriAl.asmx" />
+    </wsdl:port>
+    <wsdl:port name="VeriAlSoap12" binding="tns:VeriAlSoap12">
+      <soap12:address location="http://localhost:51733/VeriAl.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="\\10.130.214.67\c$\Inetpub\wwwroot\SAS\webservice" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="http://localhost:80/SAS" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="administrator" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/websrvcSAS.pdb" publishTime="01/24/2012 15:06:25" />
+    <file relUrl="VeriAl.asmx" publishTime="12/09/2011 10:49:39" />
+    <file relUrl="Yonetim.asmx" publishTime="12/15/2011 16:36:44" />
+    <file relUrl="bin/websrvcSAS.dll" publishTime="01/24/2012 15:06:25" />
+    <file relUrl="Web.config" publishTime="01/24/2012 15:06:28" />
+  </publishProfile>
+</publishData>
